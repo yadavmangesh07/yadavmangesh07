@@ -24,4 +24,4 @@ When I'm not coding, you might find me indulging in outdoor sports or engaging i
   
     Happy coding! 🚀
 
-                      ![](https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif)
+![](https://media.tenor.com/vlatqJBjMi0AAAAj/among-us.gif)
