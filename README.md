@@ -12,7 +12,7 @@ My journey in the world of technology has been exhilarating, and I'm deeply enth
 -----------------
 
 ### \- 🎓 Pursuing a degree in Computer Science Engineering at NIET.  
-\- 🧑🏻‍💻 Proficient coder in Python and Java languages.  
+\- 🧑🏻‍💻 Proficient coder in Java language.  
 \- ❤️ Committed to crafting practical, problem-solving applications.
 
 "Exploring Horizons: Merging Code and Contribution for Positive Change"
