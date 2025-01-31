@@ -1,7 +1,15 @@
-<div align="center">
 
 # 💫 About Me:
-<h4>🔭 I’m currently working on myself by enhancing my skills in web development and staying updated with the latest technologies.<br>👯 I’m looking to collaborate on Web Development projects, especially those involving modern JavaScript frameworks and libraries.<br>🤝 I’m looking for help with backend development to improve my understanding of server-side technologies and database management.<br>🌱 I’m currently learning AI and Web Development to merge the power of artificial intelligence with dynamic web applications.<br>💬 Ask me about front-end development, React.js, Vite, and integrating APIs into web applications.<br>⚡ Fun fact: I can code for hours fueled by coffee and good music!</h4>
+
+- 🔭 Enhancing my skills in web development and staying updated with the latest technologies.  
+- 👯 Open to collaborating on Web Development projects, especially with modern JavaScript frameworks.  
+- 🤝 Seeking help with backend development to improve server-side and database management skills.  
+- 🌱 Learning AI and Web Development to integrate AI with dynamic applications.  
+- 💬 Ask me about front-end development, React.js, Vite, and API integration.  
+- ⚡ **Fun fact:** I can code for hours fueled by coffee and good music!  
+
+<div align="center">
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_____mangesh______07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mangesh-yadav-65a437237) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@__Mangesh) 
